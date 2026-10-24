@@ -1,11 +1,13 @@
 # Hi, we are VVcall
-We are creating P2P voice-only chat for everyone using Rust. Zero servers (only signaling one). Maximum privacy.
+[UNDER RECONSTRUCTION]
+
+We are creating P2P voice-only chat for everyone using ~Rust. Zero servers (only signaling one). Maximum privacy~.
 
 ### Our projects
 |Repo   |Description                            |Activity                                           |
 |------ |---------------------------------------|--------------------------------------------------|
-|client |Desktop native client (Windows/Linux)  |[✅ Active](https://github.com/vvcall-dev/client) |
-|server |WebSocket signaling server (Docker)    |[✅ Active](https://github.com/vvcall-dev/server) |
+|client |Desktop native client (Windows/Linux)  |[⚠ Archived](https://github.com/vvcall-dev/client) |
+|server |WebSocket signaling server (Docker)    |[⚠ Archived](https://github.com/vvcall-dev/server) |
 
 ### Goals
 - Privacy first: your voice will never pass through our servers.
